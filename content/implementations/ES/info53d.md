@@ -23,7 +23,8 @@ subjectmatter:
 - film fixations
 - broadcasts
 - mere photographs
-- editorial productions of unpublished public domain works 
+- editorial productions of unpublished public domain works
+- press publications
 compensation:
 - no remuneration required
 attribution: 
@@ -35,5 +36,6 @@ otherConditions:
 - use must be limited to the extent justified by the purpose of the inclusion
 - use is allowed within the user's own work only
 remarks: "The Spanish quotation exception is very limited in its scope originally due to the fact, that prior to the transposition of the InfoSoc Directive, it was effectively fused with the educational and research exception. To this day, although free use for the purposes of illustration for teaching and research has been expanded on in a separate provision (art. 32, paras 3 and 4 of the Law), the cumulative requirements for the quotation to be simultaneously i) in the form of analysis, comment or critique and ii) restricted to teaching and research purposes, remain in force.<br /><br />The Spanish provisions regulating quotation also accommodate the so-called press clippings exception (according to the second part of art. 32(1), '_Periodic compilations made in the form of reviews orpress reviews will be considered citations_') and 'Google tax' (art.32(2), applicable to both search engines and content aggregation). Although very interesting, these provisions are not taken into account in the present analysis, because they cannot be deemed to implement art. 5(3)(d) of the Infosoc Directive _strictu sensu_.<br /><br />The exception applies to neighbouring rights on the basis of the general provision of Art. 132 of the Law."
-link: https://wipolex.wipo.int/en/text/507842
+link: https://www.boe.es/eli/es/rdlg/1996/04/12/1/con
+
 ---
